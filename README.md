@@ -1,2 +1,2 @@
 # OP
-Activité OpenClassrooms
+Activité OpenClassrooms avec Git et Github
